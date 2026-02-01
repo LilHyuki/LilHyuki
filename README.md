@@ -1,5 +1,9 @@
+<div align="center">
 # LilHyuki
+3D Character Modeler
+</div>
 
+<br>
 
 <div align="center">
   <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
