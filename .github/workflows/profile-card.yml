@@ -19,7 +19,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }} # 비공개 커밋까지 합하려면 Configuration을 참고해주세요
-          character: 'Juno' # Choose Character you want (Juno / Rosalyn)
+          character: 'Rosalyn' # Choose Character you want (Juno / Rosalyn)
 
       - name: Move to dist
         run: |
